@@ -19,3 +19,6 @@ I am a full-time student at Texas State University pursuing my B.S. in Computer 
 - 🎮 Games are a great escape in my free time
 - 💻 Competitive Coding is a blast and I learn new stuff all the time
 -  🇫🇷 I speak French! I also have a deep love for languages!
+---
+### 💥 My Projects:
+- Machine Code Disassembler / Simulation in GO
