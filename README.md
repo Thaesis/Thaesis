@@ -27,6 +27,7 @@ I am a full-time student at Texas State University pursuing my B.S. in Computer 
 ### My Interests ❗
 - <img src="https://img.shields.io/badge/-darkgreen?style=flat&logo=NVIDIA&logoColor=white" alt="nvidia badge"/> CUDA and parallelism are the topics that I am most passionate about!
 - <img src="https://img.shields.io/badge/x86-red?style=flat&&logoColor=white" alt="nvidia badge"/> I love low-level languages and computer architecture systems; The lower the better!
+- <img src="https://img.shields.io/badge/-blue?style=flat&logo=Steam&logoColor=white" alt="nvidia badge"/> Game development is extremely complex and fascinating, and pushes computers to their absolute limits. Learning how to work on projects of this magnitude would be incredible.
 ---
 
 <img src="https://myreadme.vercel.app/api/embed/Thaesis?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
