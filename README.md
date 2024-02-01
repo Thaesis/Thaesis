@@ -21,4 +21,9 @@ I am a full-time student at Texas State University pursuing my B.S. in Computer 
 -  🇫🇷 I speak French! I also have a deep love for languages!
 ---
 ### 💥 My Projects:
-- Machine Code Disassembler / Simulation in GO
+- Machine Code Disassembler / Simulation [GO]
+- Conway's Game of Life [GO]
+---
+### My Interests ❗
+- <img src="https://img.shields.io/badge/-darkgreen?style=flat&logo=NVIDIA&logoColor=white" alt="nvidia badge"/> CUDA and parallelism are the topics that I am most passionate about!
+- <img src="https://img.shields.io/badge/x86-red?style=flat&&logoColor=white" alt="nvidia badge"/> I love low-level languages and computer architecture systems; The lower the better!
