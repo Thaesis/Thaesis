@@ -17,8 +17,7 @@
 I am a full-time student at Texas State University pursuing my B.S. in Computer Science 
 - 📘 I have a love for mathematics and its applications to Computer Science
 - 🎮 Games are a great escape in my free time (also learning to develop them is fun as well!)
-- 💻 Competitive Coding is a blast and I learn new stuff all the time
--  🇫🇷 I speak French! I also have a deep love for languages!
+-  🇫🇷 I speak French, and have a deep love for languages!
 ---
 ### 💥 My Projects:
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thaesis&repo=machinecodedesconstructor&theme=gruvbox)](https://github.com/Thaesis/machinecodedesconstructor.git)
