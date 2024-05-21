@@ -27,7 +27,7 @@ Je suis une étudiant à l'Université du Texas à la poursuite d'une B.S. d'Inf
 ---
 ### 💥 My Projects / Mes Projets:
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thaesis&repo=machinecode-deconstructor&theme=gruvbox)](https://github.com/Thaesis/machinecode-deconstructor.git)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thaesis&repo=Game-of-Life&theme=gruvbox)](https://github.com/Thaesis/Game-of-Life.git)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thaesis&repo=Chess&theme=gruvbox)](https://github.com/Thaesis/Chess)
 
 ---
 ### My Interests ❗
